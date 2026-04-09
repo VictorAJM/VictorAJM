@@ -33,4 +33,4 @@ Estudiante de Inteligencia Artificial en la Universidad Panamericana (agosto 202
 ## Contacto
 
 * **Correo electrónico:** 0243471@up.edu.mx
-* [cite_start]**Teléfono:** (52) 4495244160 [cite: 5]
+* **Teléfono:** (52) 4495244160
